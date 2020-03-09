@@ -1,2 +1,2 @@
 # sample-text-file
-A sample text file, for tests purposes (automatic git repo imports
+A sample text file, for tests purposes (automatic git repo imports)
